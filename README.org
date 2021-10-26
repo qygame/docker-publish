@@ -1,0 +1,8 @@
+
+说明
+branch -- master 说明文件
+
+tag    -- 表示docker发布的结果
+#+BEGIN_EXAMPLE sh
+1.0.0 表示docker1.0.0的发布结果
+#+END_EXAMPLE
